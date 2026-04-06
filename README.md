@@ -75,8 +75,6 @@ Model performance was evaluated on the test set using the following metrics:
 
 The Neural Network achieved the highest F1 score, while AdaBoost showed the strongest AUC-ROC and AUC-PR values. Logistic Regression remained highly competitive and offered a strong balance of performance, simplicity, and interpretability.
 
-This project highlights the tradeoff between ranking quality and threshold-based classification performance in campaign targeting.
-
 ## Technical Workflow
 
 The main workflow included:
